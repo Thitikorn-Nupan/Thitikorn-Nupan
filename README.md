@@ -21,6 +21,8 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> , <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> , <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> </p>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> </p>
 
   
