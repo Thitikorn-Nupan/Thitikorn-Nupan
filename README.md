@@ -1,28 +1,34 @@
-<h6 align="center">this is not just repositories. it's mine stories before work.</h6>
-<h4 align="center">👩‍💻 i'm a second-year in rmutp university and my majoring is com-sci</h4>
-<h6 align="center">experience</h6>
+👋 i'm a second-year in rmutp university and my majoring is com-sci.
 
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> , <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> , <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> , <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> , <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="30" height="30"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> , <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> , <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/> </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> , <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> </p>
+👩‍💻 **The most current languages i use & (most) contribute projects**
 
+ <img src="https://api.githubtrends.io/user/svg/ttknpde-v/langs?time_range=one_year&theme=dark" alt="abhisheknaiidu" />  <img src="https://api.githubtrends.io/user/svg/ttknpde-v/repos?time_range=one_year&theme=dark"  alt="abhisheknaiidu"/>
+ 
+  
+- 💼 any freelance work ? call me, [email](mailto:thitikorn_nupan@outlook.co.th) or ask me about anything, i'm happy to help
+
+**My experiences**  
+
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="20"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="20"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"   height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="20"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="20"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="20"/></code>
+<code><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="20"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="20"/></code>
+<code><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"  height="20"/></code>
   
