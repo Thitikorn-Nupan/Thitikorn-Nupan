@@ -1,13 +1,15 @@
 👋 i'm a second-year in rmutp university and my majoring is com-sci.
 
-👩‍💻 **The most current languages i use & (most) contribute projects**
+🔥 **The most current languages i use & (most) contribute projects**
 
  <img src="https://api.githubtrends.io/user/svg/ttknpde-v/langs?time_range=one_year&theme=dark" alt="abhisheknaiidu" />  <img src="https://api.githubtrends.io/user/svg/ttknpde-v/repos?time_range=one_year&theme=dark"  alt="abhisheknaiidu"/>
  
   
-- 💼 any freelance work ? call me, [email](mailto:thitikorn_nupan@outlook.co.th) or ask me about anything, i'm happy to help
+- 💼 any freelance work ?
+- 👩‍💻 ask me about any problems, i'm happy to help
+- [thitikorn_nupan@outlook.co.th](mailto:thitikorn_nupan@outlook.co.th)
 
-**My experiences**  
+🔥 **My experiences**  
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" height="20"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="20"/></code>
@@ -31,4 +33,6 @@
 <code><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="20"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="20"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"  height="20"/></code>
+
+
   
