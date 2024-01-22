@@ -1,8 +1,8 @@
 👋 i'm a second-year in rmutp university and my majoring is com-sci.
 
-🔥 **The most current languages i use & (most) contribute projects**
+🔥 **The most current languages i use **
 
- <img src="https://api.githubtrends.io/user/svg/ttknpde-v/langs?time_range=one_year&theme=dark" alt="abhisheknaiidu" />  <img src="https://api.githubtrends.io/user/svg/ttknpde-v/repos?time_range=one_year&theme=dark"  alt="abhisheknaiidu"/>
+ <img src="https://api.githubtrends.io/user/svg/ttknpde-v/langs?time_range=one_year&theme=dark" alt="abhisheknaiidu" />  
  
   
 - 💼 any freelance work ?
