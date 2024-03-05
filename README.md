@@ -1,4 +1,4 @@
-👋 i'm a second-year in rmutp university and my majoring is com-sci.
+👋 i'm a third year at rmutp university and my majoring is com-sci.
 
 🔥 **The most current languages i use **
 
