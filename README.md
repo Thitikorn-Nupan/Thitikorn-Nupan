@@ -2,7 +2,7 @@
 
 🔥 **The most current languages i use **
 
- <img src="https://api.githubtrends.io/user/svg/ttknpde-v/langs?time_range=one_year&theme=dark" alt="abhisheknaiidu" />  
+ <img src="https://api.githubtrends.io/user/svg/Thitikorn-Nupan/langs?time_range=six_months&compact=True&theme=dark" alt="abhisheknaiidu" />  
  
   
 - 💼 any freelance work ?
