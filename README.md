@@ -1,6 +1,6 @@
 👋 i'm a fourth year at rmutp university and my majoring is com-sci.
 
-👩‍💻 **The most current languages i use**
+👩‍💻 **Let see current i do**
 
  <img src="https://api.githubtrends.io/user/svg/Thitikorn-Nupan/langs?time_range=six_months&compact=True&theme=dark" alt="abhisheknaiidu" />  
  
